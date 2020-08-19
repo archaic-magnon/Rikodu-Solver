@@ -1,5 +1,5 @@
-# Rikodu-Solver
-Prolog program for solving Rikodu Puzzle game.
+# Rikudo-Solver
+Prolog program for solving Rikudo Puzzle game.
 
 
 Handle board size upto 91
